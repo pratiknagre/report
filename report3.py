@@ -8,3 +8,4 @@ studies in following topics=
 4. generate CSV file Report using python & using pandas ,matplotlib & boto3 liabraries.
 5. managing code repository using git & i am using git to version control code ,track changes & collaborate with team member.
 6. exporting CSV FILE rEPORT TO S3 bucket in AWS cloud system.
+7.python is good langauge
